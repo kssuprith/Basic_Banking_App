@@ -36,7 +36,7 @@ public class splash_screen extends Activity {
             public void run() {
 
 
-                startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                startActivity(new Intent(getApplicationContext(), LoginActivity.class));
                 finish();
 
             }
