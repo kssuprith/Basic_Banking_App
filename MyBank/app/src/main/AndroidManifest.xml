@@ -48,6 +48,10 @@
             android:label="Transactions"
             android:theme="@style/AppTheme"/>
 
+        <activity
+            android:name=".LoginActivity"
+            android:label="Login" />
+
     </application>
 
 </manifest>
